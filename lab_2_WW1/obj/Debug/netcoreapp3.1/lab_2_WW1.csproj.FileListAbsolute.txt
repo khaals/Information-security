@@ -1,0 +1,16 @@
+C:\Users\Дмитрий\source\repos\inform_sec_Alsu\lab_2_WW1\bin\Debug\netcoreapp3.1\lab_2_WW1.exe
+C:\Users\Дмитрий\source\repos\inform_sec_Alsu\lab_2_WW1\bin\Debug\netcoreapp3.1\lab_2_WW1.deps.json
+C:\Users\Дмитрий\source\repos\inform_sec_Alsu\lab_2_WW1\bin\Debug\netcoreapp3.1\lab_2_WW1.runtimeconfig.json
+C:\Users\Дмитрий\source\repos\inform_sec_Alsu\lab_2_WW1\bin\Debug\netcoreapp3.1\lab_2_WW1.runtimeconfig.dev.json
+C:\Users\Дмитрий\source\repos\inform_sec_Alsu\lab_2_WW1\bin\Debug\netcoreapp3.1\lab_2_WW1.dll
+C:\Users\Дмитрий\source\repos\inform_sec_Alsu\lab_2_WW1\bin\Debug\netcoreapp3.1\lab_2_WW1.pdb
+C:\Users\Дмитрий\source\repos\inform_sec_Alsu\lab_2_WW1\obj\Debug\netcoreapp3.1\lab_2_WW1.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\inform_sec_Alsu\lab_2_WW1\obj\Debug\netcoreapp3.1\lab_2_WW1.Form1.resources
+C:\Users\Дмитрий\source\repos\inform_sec_Alsu\lab_2_WW1\obj\Debug\netcoreapp3.1\lab_2_WW1.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\inform_sec_Alsu\lab_2_WW1\obj\Debug\netcoreapp3.1\lab_2_WW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\inform_sec_Alsu\lab_2_WW1\obj\Debug\netcoreapp3.1\lab_2_WW1.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\inform_sec_Alsu\lab_2_WW1\obj\Debug\netcoreapp3.1\lab_2_WW1.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\inform_sec_Alsu\lab_2_WW1\obj\Debug\netcoreapp3.1\lab_2_WW1.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\inform_sec_Alsu\lab_2_WW1\obj\Debug\netcoreapp3.1\lab_2_WW1.dll
+C:\Users\Дмитрий\source\repos\inform_sec_Alsu\lab_2_WW1\obj\Debug\netcoreapp3.1\lab_2_WW1.pdb
+C:\Users\Дмитрий\source\repos\inform_sec_Alsu\lab_2_WW1\obj\Debug\netcoreapp3.1\lab_2_WW1.genruntimeconfig.cache
